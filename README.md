@@ -1,6 +1,6 @@
 # Gumball Run
 
-A multiplayer web-based game designed to teach users about the beneficial speed/accuracy tradeoff that comes from assisted estimation. Through gameplay, users experience first-hand the net benefit that comes when the speed of estimation is increased within an acceptable threshold of reduced accuracy.
+A multiplayer web-based game designed to teach users about the beneficial speed/accuracy tradeoff that comes from assisted estimation. Through gameplay, users experience first-hand the net benefit that comes when the speed of estimation is increased at the expense of a small reduction in accuracy .
 
 ## Purpose
 
@@ -95,12 +95,6 @@ Gumball Run is designed to be played by multiple users simultaneously:
 - **Scoring**: Balance speed and accuracy to achieve the highest score
 - **Multiplayer**: Compete against other players in real-time
 - **Leaderboards**: Track your performance across multiple games
-
-### Game Modes
-
-- **Individual Competition**: Play against other players
-- **Team Mode**: Work together with teammates
-- **Tutorial**: Learn the game mechanics before playing
 
 ## Technology Stack
 
