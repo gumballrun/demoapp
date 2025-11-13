@@ -34,7 +34,7 @@ const router = createBrowserRouter([
     ],
   },
 ], {
-  basename: import.meta.env.PROD ? '/gumball-run' : '/'
+  basename: import.meta.env.PROD ? '/demoapp' : '/'
 })
 
 createRoot(document.getElementById('root')).render(
